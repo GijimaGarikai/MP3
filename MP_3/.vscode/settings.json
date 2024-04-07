@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "src/junit-platform-console-standalone-1.10.0.jar",
+            "test-lib/**/*.jar"
+        ],
+        "exclude": [
+            "lib/junit-platform-console-standalone-1.10.2.jar"
+        ]
+    }
+}
