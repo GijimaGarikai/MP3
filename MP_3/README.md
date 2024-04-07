@@ -9,5 +9,7 @@
 
 **Acknowledgements:** Ideas and concepts were taken from instructions provided. Class methods taken from online documentation.
 
+**Link to GitHub:** https://github.com/GijimaGarikai/MP3
+
 
 
